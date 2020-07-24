@@ -10,3 +10,8 @@ My name is Paul! I'm 15 years old and I mostly program websites and discord bots
   - **Mail: Paultje52@gmail.com**
   - **Discord tag: Paultje#0933**
 - ⚡ Fun fact: **I started programming when I was eleven years old!**
+
+### Look at this!
+- [Readable-Numbers](https://github.com/Paultje52/readable-numbers)
+- [Excel-To-Sqlite](https://github.com/Paultje52/excel-to-sqlite)
+- [BananenBase](https://github.com/Paultje52/bananenbase)
