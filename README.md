@@ -19,3 +19,8 @@ My name is Paul! I'm 15 years old and I mostly program websites and discord bots
 - [Website-render](https://github.com/Paultje52/website-render)
 - [Excel-to-sqlite](https://github.com/Paultje52/excel-to-sqlite)
 
+### Look at this!
+- [Portfolio Website](https://paultje52.ga)
+- [Minecraft In Discord](https://discord.gg/MJz4JqG)
+- [DisCity](https://discord.gg/g2WuPeT)
+- [Teqix Bot](https://github.com/Paultje52/Teqix-Bot)
