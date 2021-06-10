@@ -8,6 +8,7 @@ My name is Paul! I'm a 16 year old that mostly programs websites and discord bot
   - **Discord tag: Paultje#0933**
 - ⚡ Fun fact: **I started programming when I was eleven years old!**
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paultje52)
 ![Paultje52's github stats](https://github-readme-stats.vercel.app/api?username=paultje52)
 
 ### NPM Packages
@@ -21,6 +22,6 @@ My name is Paul! I'm a 16 year old that mostly programs websites and discord bot
 - [SupaBotBase](https://github.com/Paultje52/SupaBotBase)
 
 ### Look at this!
-- [Minecraft In Discord](https://discord.gg/MJz4JqG)
+- [SupaBotBase](https://github.com/Paultje52/SupaBotBase)
 - [DisCity](https://discord.gg/g2WuPeT)
-- [Teqix Bot](https://github.com/Paultje52/Teqix-Bot)
+- [BananenBase](https://github.com/Paultje52/BananenBase)
