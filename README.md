@@ -2,7 +2,7 @@
 My name is Paul! I'm 17 years old and I mostly programs websites and discord bots!
 
 - 🔭 I’m currently working on **too many projects to name** 
-- 🌱 I’m currently learning **java**
+- 🌱 I’m currently learning **java and go**
 - 📫 How to reach me:
   - **Mail: Paultje52@gmail.com**
   - **Discord tag: Paultje#0933**
