@@ -12,7 +12,5 @@ My name is Paul! I'm 17 years old and I mostly programs websites and discord bot
 ![Paultje52's github stats](https://github-readme-stats.vercel.app/api?username=paultje52)
 
 ### Cool projects
-- [Background-Tasks](https://github.com/Paultje52/background-tasks)
-- [Better-mysql](https://github.com/Paultje52/better-mysql)
-- [SupaBotBase](https://github.com/Paultje52/SupaBotBase)
+> The code of these projects is currently private
 - [BlockCord](https://discord.gg/MJz4JqG)
