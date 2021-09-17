@@ -11,17 +11,8 @@ My name is Paul! I'm 17 years old and I mostly programs websites and discord bot
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paultje52)
 ![Paultje52's github stats](https://github-readme-stats.vercel.app/api?username=paultje52)
 
-### NPM Packages
-- [BananenBase](https://github.com/Paultje52/BananenBase)
-- [Readable-Numbers](https://github.com/Paultje52/readable-numbers)
+### Cool projects
 - [Background-Tasks](https://github.com/Paultje52/background-tasks)
-- [Sqlite-key-value](https://github.com/Paultje52/sqlite-key-value)
 - [Better-mysql](https://github.com/Paultje52/better-mysql)
-- [Website-render](https://github.com/Paultje52/website-render)
-- [Excel-to-sqlite](https://github.com/Paultje52/excel-to-sqlite)
 - [SupaBotBase](https://github.com/Paultje52/SupaBotBase)
-
-### Look at this!
-- [SupaBotBase](https://github.com/Paultje52/SupaBotBase)
-- [DisCity](https://discord.gg/g2WuPeT)
-- [BananenBase](https://github.com/Paultje52/BananenBase)
+- [BlockCord](https://discord.gg/MJz4JqG)
