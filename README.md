@@ -8,8 +8,9 @@ My name is Paul! I'm 18 years old and I mostly programs websites and discord bot
   - **Discord tag: Paultje#0933**
 - ⚡ Fun fact: **I started programming when I was eleven years old!**
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paultje52&theme=dark)
-![Paultje52's github stats](https://github-readme-stats.vercel.app/api?username=paultje52&theme=dark)
+![Base information and commits past year](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Paultje52&theme=github_dark)
+![Commits per hour](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Paultje52&theme=github_dark)
+![Most used languages](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Paultje52&theme=github_dark)
 
 ### Cool projects
 > The code of these projects is currently private
