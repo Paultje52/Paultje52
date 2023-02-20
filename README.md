@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Paul! I'm 18 years old and I mostly programs websites and discord bots!
+My name is Paul! I'm 18 years old and I mostly program websites and discord bots!
 
 - 🔭 I’m currently working on **too many projects to name** 
 - 🌱 I’m currently learning **java and go**
